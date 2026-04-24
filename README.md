@@ -13,7 +13,7 @@ The core performance metrics indicate a highly efficient and healthy advertising
 •	_Gross Revenue Generated_: $3,446,142.00<br>
 •	_Return on Ad Spend (ROAS)_: 6.98x (For every $1 spent, they generate nearly $7 in revenue).<br>
 •	_Average Cost Per Acquisition (CPA)_: $32.95<br>
-•  _Overall Conversion Rate: 4.92%
+•  _Overall Conversion Rate_: 4.92%
 
 __2. Strategic Insights by Segment__<br>
 <ins>A. Device Performance: The Cross-Platform Advantage</ins><br>
