@@ -8,10 +8,10 @@ _In this Portfolio Project I would like to demonstrate my authentic analytical p
 # CONCLUSION - INSIGHTS - RECOMMENDATION 
 
 __1. Executive KPI Dashboard (Consolidated)__<br>
-The core performance metrics indicate a highly efficient and healthy advertising ecosystem:
-•	_Total Ad Investment_: $493,967.37
-•	_Gross Revenue Generated_: $3,446,142.00
-•	_Return on Ad Spend (ROAS)_: 6.98x (For every $1 spent, they generate nearly $7 in revenue).
+The core performance metrics indicate a highly efficient and healthy advertising ecosystem:<br>
+•	_Total Ad Investment_: $493,967.37<br>
+•	_Gross Revenue Generated_: $3,446,142.00<br>
+•	_Return on Ad Spend (ROAS)_: 6.98x (For every $1 spent, they generate nearly $7 in revenue).<br>
 •	_Average Cost Per Acquisition (CPA)_: $32.95 * Overall Conversion Rate: 4.92%
 
 __2. Strategic Insights by Segment__<br>
