@@ -15,16 +15,16 @@ The core performance metrics indicate a highly efficient and healthy advertising
 •	_Average Cost Per Acquisition (CPA)_: $32.95 * Overall Conversion Rate: 4.92%
 
 2. __Strategic Insights by Segment__<br>
-<ins>A. Device Performance: The Cross-Platform Advantage</ins>
-One of the most striking findings is the stability of the performance across all user platforms. While many companies see a "Mobile-only" or "Desktop-only" success, the revenue is evenly distributed:
+<ins>A. Device Performance: The Cross-Platform Advantage</ins><br>
+One of the most striking findings is the stability of the performance across all user platforms. While many companies see a "Mobile-only" or "Desktop-only" success, the revenue is evenly distributed:<br>
 •	_Desktop_: Leads with a 7.00x ROAS and the lowest CPA ($32.67). This remains our highest-intent platform.
 •	_Tablet & Mobile_: Following closely at 6.98x and 6.94x respectively.
    Note: _This suggests the landing pages and checkout processes are excellently optimized for all screen sizes, providing           a resilient foundation for scaling_.
-<ins>B. Keyword Efficiency: Revenue Drivers</ins>
-The keyword analysis reveals a strong focus on high-intent educational queries:
-1.	"data analytics course": Highest ROI keyword (7.12x ROAS).
-2.	"learn data analytics": Highest total revenue driver ($608k).
-3.	"data anaytics training": Exceptional efficiency with over 2,400 conversions.
+<ins>B. Keyword Efficiency: Revenue Drivers</ins><br>
+The keyword analysis reveals a strong focus on high-intent educational queries:<br>
+   1.	"data analytics course": Highest ROI keyword (7.12x ROAS).
+   2.	"learn data analytics": Highest total revenue driver ($608k).
+   3.	"data anaytics training": Exceptional efficiency with over 2,400 conversions.
    
 3. __Data Integrity & Analytical Rigor__<br>
 The raw data contained significant noise, including four variations of campaign names and multiple geographical misspellings (e.g., "Hydrebad"). By consolidating these into a single "Data Analytics Course" campaign, we discovered that the performance is much more centralized and stable than fragmented reporting would suggest.
