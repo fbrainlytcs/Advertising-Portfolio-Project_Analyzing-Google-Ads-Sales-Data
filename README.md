@@ -12,7 +12,7 @@ The data reveals a strong positive correlation between investment and returns. G
 
 # Conclusion - Insights - Recommendation
 
-## Executive KPI Dashboard (Consolidated)<br>
+## Conclusion <br>
 The core performance metrics indicate a highly efficient and healthy advertising ecosystem:<br>
 •	_Total Ad Investment_: $493,967.37<br>
 •	_Gross Revenue Generated_: $3,446,142.00<br>
