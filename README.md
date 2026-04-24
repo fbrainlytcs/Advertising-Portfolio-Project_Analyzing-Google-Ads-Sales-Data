@@ -22,9 +22,9 @@ One of the most striking findings is the stability of the performance across all
    Note: _This suggests the landing pages and checkout processes are excellently optimized for all screen sizes, providing a resilient foundation for scaling_.<br><br>
 <ins>B. Keyword Efficiency: Revenue Drivers</ins><br>
 The keyword analysis reveals a strong focus on high-intent educational queries:<br>
-   1.	"data analytics course": Highest ROI keyword (7.12x ROAS).
-   2.	"learn data analytics": Highest total revenue driver ($608k).
-   3.	"data anaytics training": Exceptional efficiency with over 2,400 conversions.
+   1.	"_data analytics course_": Highest ROI keyword (7.12x ROAS).
+   2.	"_learn data analytics_": Highest total revenue driver ($608k).
+   3.	"_data anaytics training_": Exceptional efficiency with over 2,400 conversions.
    
 __3. Data Integrity & Analytical Rigor__<br>
 The raw data contained significant noise, including four variations of campaign names and multiple geographical misspellings (e.g., "Hydrebad"). By consolidating these into a single "Data Analytics Course" campaign, we discovered that the performance is much more centralized and stable than fragmented reporting would suggest.
