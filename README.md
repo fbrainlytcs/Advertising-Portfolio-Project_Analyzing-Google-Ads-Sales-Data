@@ -9,7 +9,7 @@ _In this Portfolio Project I would like to demonstrate my authentic analytical p
 
 The data reveals a strong positive correlation between investment and returns. Generally, spikes in daily spend are met with corresponding (and significantly amplified) peaks in revenue, suggesting a healthy Return on Ad Spend (ROAS).
 
-Note on Dataset:<br>
+Note on the Dataset:<br>
 _The raw data contained significant noise, including four variations of campaign names and multiple geographical misspellings (e.g., "Hydrebad"). By consolidating these into a single "Data Analytics Course" campaign, it is discovered that the performance is much more centralized and stable than fragmented reporting would suggest._
 
 
